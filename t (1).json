@@ -28,6 +28,12 @@
       "username": "Username",
       "password": "password",
       "expire_date": "2027-06-01"
+    },
+    {
+      "device_id": "803dff3e42c8d27e",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2027-06-01"
     }
   ]
 }
